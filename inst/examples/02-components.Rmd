@@ -631,7 +631,7 @@ output:
 ---
 ```
 
-We have defined a few types of blocks for this book to show notes, tips, and warnings, etc. Below are some examples:
+We have defined a few types of blocks for this book to show notes, tips, and warnings, etc. Below are some examples, of type: `rmdnote`, `rmdcaution`, `rmdimportant`, `rmdtip` and `rmdwarning`.
 
 ```{block2, note-text, type='rmdnote'}
 R is free software and comes with ABSOLUTELY NO WARRANTY.
